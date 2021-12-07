@@ -1,1 +1,3 @@
-# chandrika-sample
+# chandrika-git
+practice it
+
